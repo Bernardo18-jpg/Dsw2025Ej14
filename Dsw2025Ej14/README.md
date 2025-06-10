@@ -36,6 +36,9 @@ Desarrollar una API Web basada en controladores en .NET, con las siguientes cara
 __Aplicar principios y patrones estudiados.__
 
 __Agregar al README lista de estudiantes que participaron y la comisión. Al finalizar la clase se deben subir los cambios al repositorio bifurcado. No se pueden realizar commits una vez subido.__
+COM: 3K03	
+Goane Bernardo Luis
+Barale Agustín
 
 __Código de ejemplo para importar los productos__ \
 `var json = await File.ReadAllTextAsync("products.json");` \
